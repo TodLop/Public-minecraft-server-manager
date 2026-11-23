@@ -1,5 +1,13 @@
 # Minecraft Server Manager
 
+> **Legacy (February 2026).** This is the first public extraction of the
+> CORA-live Minecraft operations tooling and is no longer maintained.
+> The current version is [TodLop/CORA-Outpost](https://github.com/TodLop/CORA-Outpost).
+>
+> **2026년 2월 구버전입니다.** CORA-live 마인크래프트 운영 도구를 처음 공개용으로
+> 떼어낸 판이며 더 이상 관리하지 않습니다. 최신판은
+> [TodLop/CORA-Outpost](https://github.com/TodLop/CORA-Outpost)입니다.
+
 Open-source FastAPI + Bukkit tooling for operating a Minecraft Paper server.
 
 KR: 이 저장소는 마인크래프트 서버 운영 기능만 포함한 공개용 레포입니다.
